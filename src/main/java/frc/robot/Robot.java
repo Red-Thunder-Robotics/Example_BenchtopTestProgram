@@ -16,15 +16,8 @@ import edu.wpi.first.wpilibj.Joystick;
 import edu.wpi.first.wpilibj.Timer;
 import edu.wpi.first.wpilibj.XboxController;
 import edu.wpi.first.wpilibj.drive.DifferentialDrive;
-//wtf is happening
 
-// @Garpau09
-//  update the detail @Garpau09
-// Editing a "deleted branch"
-// This is Tommy's contribution
-//Checking a fetch vs. a pull
-//Fetch and pull v2
-//wat
+// Deleting unimportant comments
 
 
 /**
